@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:coding_interview/db/pojo/question.dart';
+import 'package:coding_interview/db/question.dart';
 import 'package:path/path.dart';
 import 'dart:io';
 import 'package:path_provider/path_provider.dart';

@@ -2,7 +2,7 @@ import 'dart:math';
 
 import 'package:audioplayers/audio_cache.dart';
 import 'package:audioplayers/audioplayers.dart';
-import 'package:coding_interview/db/pojo/question.dart';
+import 'package:coding_interview/db/question.dart';
 import 'package:flutter/material.dart';
 
 import 'answer_button.dart';

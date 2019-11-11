@@ -1,4 +1,4 @@
-import 'package:coding_interview/db/pojo/question.dart';
+import 'package:coding_interview/db/question.dart';
 import 'package:coding_interview/db/questions.dart';
 import 'package:coding_interview/ui/animated_background.dart';
 import 'package:coding_interview/ui/colors.dart';
