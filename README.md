@@ -2,6 +2,8 @@
 
 Quiz App (Learning Flutter Project)
 
-[](https://i.imgur.com/VaqI3vr.png)
-[](https://i.imgur.com/Rn3Pvov.png)
-[](https://i.imgur.com/L2i7pTO.png)
+Google Play: https://play.google.com/store/apps/details?id=info.lukasschneider.coding_interview
+
+![screen](https://i.imgur.com/VaqI3vr.png)
+![screen](https://i.imgur.com/Rn3Pvov.png)
+![screen](https://i.imgur.com/L2i7pTO.png)
