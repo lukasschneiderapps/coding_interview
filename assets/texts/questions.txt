@@ -1,0 +1,250 @@
+What is the difference between a variable and a constant?
+The value of a constant doesn't change, the value of a variable can change all throughout a program
+Variables can be declared only in software languages
+No difference
+Constants can be declared only in Java
+What is the software called that translates code into something that the computer can understand?
+Compiler
+Translator
+Converter
+Iterator
+How do you call an error in a program?
+Bug
+Debug
+Virus
+Noise
+How is a single unit composed of bits called?
+Byte
+Bit
+Bug
+Flag
+What does RAM stand for?
+Random Access Memory
+Read Access Memory
+Read Arithmetic Memory
+Random Arithmetic Memory
+How is software called that is open for users to customize?
+Open-Source Software
+Freeware
+Shareware
+Macros
+How is the arrangement of elements such as title, subtitle, text, pictures, etc. called?
+Layout
+Presentation
+Design
+Scheme
+How are the physical components of your computer called?
+Hardware
+Software
+Bloatware
+Freeware
+What does I/O stand for?
+Input & Output
+Industrial Organization
+Internet Owner
+Inner & Outer
+What does IDE stand for?
+Integrated Development Environment
+Internal Development Environment
+Implicit Development Environment
+Intermediate Development Environment
+What does the term debugger stand for?
+Tool used to find mistakes in code
+Tool that automatically fixes errors in code
+A widely used programming language
+A framework to create desktop applications
+How do you call a set of instructions or rules designed to solve a definite problem?
+Algorithm
+API
+Argument
+Object
+What does API stand for?
+Application Programming Interface
+Application Programming Interference
+Application Programming Implementation
+Application Programming Integration
+What is ASCII?
+A character encoding standard for electronic communication.
+A programming language
+The first video game
+A standard that describes communication between computers
+How many different values can a boolean variable have?
+Two
+Three
+Unlimited
+One
+What is OOP?
+A programming model that revolves around objects and data rather than actions and logic
+A programming model that revolves purely around functions
+A programming model that describes how to develop clean software architecture
+A programming language based on C
+How do you call a list of data in programming?
+Array
+Enum
+Interface
+Class
+What do you call these: float, int, double, boolean ?
+Data types
+Variables
+Members
+Instances
+How do you call an unexpected condition in the execution of a program?
+Exception
+Defect
+Mistake
+Fault
+How do you call the repetition of a sequence of instructions?
+Loop
+Retry
+Rerun
+Lead
+What is a low-level language?
+A language that is very close to machine language
+A language for beginners
+A language used for small programs only
+A language that is very old
+Which programming language is most popular in web development?
+PHP
+C++
+Swift
+MATLAB
+Which programming languages are popular in game development?
+C++, C#
+Java, Python
+Ruby, Perl
+Go, HTML
+How do you call variables that contain text?
+Strings
+Text
+SMS
+Writing
+Which of these operating systems is not UNIX-like?
+Windows
+MacOS
+Debian
+OpenBSD
+Which language is used for managing databases?
+SQL
+CSS
+AWS
+COBOL
+How do you securely safe passwords in databases?
+Hashed & Salted
+Hashed
+Encrypted
+Locked
+What do you have to do to make sure that your program works?
+Testing
+Implementing
+Declaring
+Exporting
+Which tool can be used to develop software with multiple persons?
+Git
+Espresso
+SSL
+MVVM
+What is a famous architectural software pattern?
+MVP
+MPP
+MQC
+MLV
+Which design pattern does not exist?
+Skyscraper
+Flyweight
+Proxy
+Abstract Factory
+Which type of data does a double variable contain?
+Floating-point Numbers
+Integers
+True or False
+Characters
+What is an interpreter?
+A program that directly runs code
+A program that analyzes code for errors
+A program that auto-formats your code
+A program that generates code
+Which programming language is no purely functional language?
+Kotlin
+Haskell
+SASL
+Charity
+Which language is popular in Machine Learning?
+Python
+PHP
+C
+Batch
+Which file ending is used for pictures?
+.png
+.mp3
+.avi
+.odt
+How do you also call a program?
+Executable
+Runnable
+Thread
+Exception
+Which is no Continuous Integration platform?
+Mercurial
+Travis
+Jenkins
+Gitlab
+What is peer programming?
+Writing code in teams of two
+Writing Peer-to-Peer software
+Writing clients that can access servers
+Writing code without IDE
+What concept can you use for software project management?
+Tickets
+Batch
+Bugs
+Logs
+What is no Web Server?
+PuTTY
+Apache
+Nginx
+Node.js
+Which protocol is used to securely deliver websites?
+HTTPS
+SSH
+IMAP
+POP3
+Which is no IDE?
+Sublime
+Eclipse
+IntelliJ
+VisualStudio
+What is the Bootstrap framework?
+A Frontend-CSS framework
+A Backend-PHP framework
+A Machine Learning framework
+A Maths framework
+How do you call a graphical representation of text?
+Font
+Word
+Weight
+Sheet
+Which is no game engine?
+Reel Engine
+CryEngine
+Unreal Engine
+Unity3D
+How do you call the hardware unit responsible for processing graphics?
+GPU
+CPU
+ALU
+BUS
+Which software can be used to create tables?
+Excel
+Word
+Powerpoint
+OneDrive
+What does the print-function do in most programming languages?
+Output text on the console
+Print text using the printer
+Send text to another computer
+Download text from the internet
+Who created the C++ programming language?
+Bjarne Stroustrup
+Dennis Ritchie
+Ken Thompson
+Steve Jobs
